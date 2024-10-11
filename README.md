@@ -1,6 +1,6 @@
 # Ian A. Sousa
 ## 👾Sobre mim
-Sou estutante e procuro oportunidades como de desenvolvimento web.
+Sou estutante e procuro oportunidades como desenvolvedor web.
 ### Contate-me
  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:iansousa.dev@gmail.com)
 	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-sousa08/)
