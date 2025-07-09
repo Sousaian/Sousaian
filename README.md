@@ -23,9 +23,6 @@ Entre em contato por qualquer uma das plataformas abaixo:
 ### 🛢️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📈 Data Analysis  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-
 ---
 
 ## 📊 Stats  
