@@ -1,8 +1,4 @@
 # Ian A. Sousa 👾  
-
-## Sobre mim  
-🎯 Estudante apaixonado por tecnologia e focado no desenvolvimento web. Sempre em busca de desafios que aprimorem minhas habilidades e permitam contribuir para projetos inovadores.  
-
 ---
 
 ## 🌐 Contate-me  
